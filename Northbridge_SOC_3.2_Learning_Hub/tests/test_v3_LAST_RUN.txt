@@ -1,0 +1,53 @@
+TITLE Northbridge SOC 3.0 · Virtual Analyst Workstation
+ROOT ESTIO-INSPIRED TRAINING · NORTHBRIDGE SOC 3.0
+Welcome to the Virtual Cyber Operations Centre
+
+A fictional, self-contained incident-response training environment. Before accessing the simulated workstation, please read and acknowledge the following rules.
+
+Educational use only. This application does not grant permission to access or test any real system. All organisations, people, hosts, logs, mess
+INITIAL WINDOWS 2
+LOCKER Collection / preservation
+Selected evidence reference
+Purpose of collection
+Handler / collector (fictional role)
+Collection / preservation method
+🔏 Preserve evidence↻ Reset only this tool
+Preserved artefacts (1)
+ID-101
+snapshot
+
+SHA-256: 9f8d6ea0297fcc35a7d7121652a9988123cab69b33de4e359683e3b6ce8877f3
+
+Handler: Junior SOC Analyst · 08:16
+
+Verify hash
+Alter LAB copy
+Record custody transfer
+Preserved ID-101
+Educational warning: hashing and a simulated chain-of-custody form cannot guarantee a real item's authenticity, legality or admissibility.
+Simulated data only · independent tool state · 08:16
+VERIFY  LAB copy
+Record custody transfer
+Integrity verified: retained snapshot matches its original SHA-256 digest.
+Educational warning: hashing and a simulated chain-of-custody form cannot guarantee a real item's authenticity, legality or admissibility.
+Simulated data only · independent tool state · 08:16
+RESPONSE  reason, service/evidence risks and validation plan
+Apply authorised SIMULATED control
+Operational history
+08:18 Block suspicious external endpoint · ID-01
+
+The targeted threat route is reduced; monitoring, investigation and validation must continue.
+
+Authorised: Incident Manager
+
+Current simulated threat pressure
+
+5/100
+
+Illustrative teaching model, not a real SOC risk score.
+
+The targeted threat route is reduced; monitoring, investigation and validation must continue.
+↻ Reset only this tool
+Simulated data only · independent tool state · 08:18
+ERRORS []
+V3 QA PASS
